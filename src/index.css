@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 * {
     margin: 0;
     padding: 0;
@@ -149,9 +142,9 @@ img {
 /* ============= Media Queries (Small Devices) ============== */
 
 @media screen and (max-width: 600px) {
-    .container {
+    /* .container {
         width: var(--container-width-sm);
-    }
+    } */
 
     section>h2 {
         margin-bottom: 2rem;
