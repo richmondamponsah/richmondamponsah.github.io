@@ -56,6 +56,6 @@
         }
     
         .client__review{
-            width:var(--container-width-sm);
+            width: var(--container-width-sm);
         }
     }
